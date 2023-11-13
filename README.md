@@ -1,6 +1,9 @@
 ![logo](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=363062&vCenter=true&size=22"></a>
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamohammed-eslam&label=Profile%20views&color=0e75b6&style=flat" alt="osamamohammed-eslam" /> </p>
 <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="A Programmer" align="right" width="400" />
