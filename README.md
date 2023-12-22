@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React/Node.js**
 
-- 💬 Ask me about **HTML/Css/Bootstrap/Java Script/Python**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ossa6920@gmail.com**
 
