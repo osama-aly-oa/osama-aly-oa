@@ -13,7 +13,7 @@ Profile views" /> </p>
 
 - 🔭 I’m currently working on **Improving my coding skills**
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently learning **React/Mern**
 
 - 💬 Ask me about **Frontend**
 
