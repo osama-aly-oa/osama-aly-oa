@@ -19,7 +19,7 @@ Profile views" /> </p>
 
 - 📫 How to reach me **osamaeslam4b@gmail.com**
 
-- ⚡ Fun fact **I like who smiles**
+- 😁 Fun fact **I don't have a yellow rubber duck**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
