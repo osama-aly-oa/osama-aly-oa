@@ -17,7 +17,7 @@ Profile views" /> </p>
 
 - 🌱 I’m currently learning **TS/Nextjs**
 
-// -🥷  I'm pro **MERN** developer opps... there is no<pre></br> comments here</pre> 
+// -🥷  I'm pro **MERN** developer opps... there is no<pre></br> comments here 🙄😂</pre> 
   
 - 💬 Ask me about **Frontend**
 
