@@ -1,4 +1,4 @@
-
+<img src="Don't look to my code 😡😂😂" alt="There is a banner but you can't see it 😅" width="100%" height="300"/>
 <h1 align="center">Hi 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 , I'm Osama</h1>
@@ -15,8 +15,10 @@ Profile views" /> </p>
 
 - 🔭 I’m currently working on **Improving my coding skills**
 
-- 🌱 I’m currently learning **React/Mern**
+- 🌱 I’m currently learning **TS/Nextjs**
 
+// -🥷  I'm pro **MERN** developer opps... there is no comments here
+  
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **ossa6920@gmail.com**
