@@ -31,8 +31,9 @@ Profile views" /> </p>
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="osama islam" height="30" width="30" /></a>
 <a href="https://instagram.com/oi_6920" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oi_6920" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/osamaislam_oi" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png" alt="https://twitter.com/osamaislam_oi" height="30" width="30" /></a>
+<a href="https://twitter.com/osamaIslam_oi" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png" 
+     alt="https://twitter.com/osamaislam_oi" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> 
