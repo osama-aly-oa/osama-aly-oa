@@ -21,7 +21,7 @@ Profile views" /> </p>
   
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **ossa6920@gmail.com**
+- 📫 How to reach me **osamaislam.oi@yahoo.com**
 
 - 😁 Fun fact **I don't have a yellow rubber duck**
 
