@@ -16,12 +16,13 @@ Profile views" /> </p>
 - 🔭 I’m currently working on **Improving my coding skills**
 
 - 🌱 I’m currently learning **TS/Nextjs**
-
-// -🥷  I'm pro **MERN** developer opps... <pre>there is no comments here 🙄😂</pre> 
   
 - 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **osamaislam.oi@yahoo.com**
+
+// -🥷  I'm pro **MERN** developer opps... <pre>there is no comments here 🙄😂</pre> 
+  
 
 - 😁 Fun fact **I don't have a yellow rubber duck**
 
