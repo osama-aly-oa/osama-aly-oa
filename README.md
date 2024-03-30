@@ -21,7 +21,7 @@ Profile views" /> </p>
 
 - 📫 How to reach me **osamaislam.oi@yahoo.com**
 
-// -🥷  I'm pro **MERN** developer opps... <pre>there is no comments here 🙄😂</pre> 
+// -🥷  I'm pro **MERN** developer <pre>Opps... there is no comments here 🙄😂</pre> 
   
 
 - 😁 Fun fact **I don't have a yellow rubber duck**
