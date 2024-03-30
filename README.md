@@ -15,7 +15,7 @@ Profile views" /> </p>
 
 - 🔭 I’m currently working on **Improving my coding skills**
 
-- 🌱 I’m currently learning **TS/Nextjs**
+- 🌱 I’m currently learning **Ts/Nextjs**
   
 - 💬 Ask me about **Frontend**
 
