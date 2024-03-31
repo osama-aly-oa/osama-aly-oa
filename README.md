@@ -1,5 +1,4 @@
-<img src="Don't look to my code 😡😂😂" alt="There is a banner but you can't see it 😅" width="100%" height="300"/>
-<h1 align="center">Hi 
+<h1 align="center">Hi world
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 , I'm Osama</h1>
 <h3 align="center">A passionate Jr software engineer from Egypt</h3>
@@ -21,7 +20,7 @@ Profile views" /> </p>
 
 - 📫 How to reach me **osamaislam.oi@yahoo.com**
 
-// -🥷  I'm pro **MERN** developer <pre>Opps... there is no comments here 🙄😂</pre> 
+// -🥷  I'm pro **Full Stack Developer** developer <pre>Opps... there is no comments here 🙄😂</pre> 
   
 
 - 😁 Fun fact **I don't have a yellow rubber duck**
