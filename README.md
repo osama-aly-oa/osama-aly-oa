@@ -29,9 +29,6 @@ Profile views" /> </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/osama-islam-6219a824b/" target="blank">    
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="osama islam" height="30" width="30" /></a>
-<a href="https://twitter.com/osamaIslam_oi" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/450px-X_logo_2023_original.svg.png" 
-     alt="https://twitter.com/osamaislam_oi" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> 
