@@ -3,7 +3,7 @@
 , I'm Osama</h1>
 <h3 align="center">A passionate Jr software engineer from Egypt</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=363062&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20improving&font=Fira%20Code&center=true&width=440&height=45&color=363062&vCenter=true&size=22"></a>
 </p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamamohammed-eslam&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views
