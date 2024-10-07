@@ -1,4 +1,4 @@
-<h1 align="center">Hi World
+<h1 align="center">Hello World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 , I'm Osama</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
