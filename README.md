@@ -1,7 +1,7 @@
 <h1 align="center">Hi World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 , I'm Osama</h1>
-<h3 align="center">A passionate Jr software engineer from Egypt</h3>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Always%20improving&font=Fira%20Code&center=true&width=440&height=45&color=363062&vCenter=true&size=22"></a>
 </p> 
@@ -20,10 +20,10 @@ Profile views" /> </p>
 
 - 📫 How to reach me **osamaislam.oi@yahoo.com**
 
-// -🥷  I'm pro **Full Stack Developer** developer <pre>Opps... there is no comments here 🙄😂</pre> 
-  
+- 🥷  I'm pro **Software engineer** developer 
 
-- 😁 Fun fact **I don't have a yellow rubber duck**
+- 😁 Fun fact **I don't have a yellow rubber duck** <pre>Opps... there is no comments here 🙄😂</pre> 
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
