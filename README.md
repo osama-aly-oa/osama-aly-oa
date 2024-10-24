@@ -20,7 +20,7 @@ Profile views" /> </p>
 
 - 📫 How to reach me **osamaislam.oi@yahoo.com**
 
-- 🥷  I'm pro **Software engineer** developer 
+- 🥷  I'm pro **Software engineer** 
 
 - 😁 Fun fact **I don't have a yellow rubber duck** <pre>Opps... there is no comments here 🙄😂</pre> 
   
