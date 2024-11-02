@@ -18,7 +18,7 @@ Profile views" /> </p>
   
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **osamaislam.oi@yahoo.com**
+- 📫 How to reach me **osama.aly.dev@gmail.com**
 
 - 🥷  I'm pro **Software engineer** 
 
