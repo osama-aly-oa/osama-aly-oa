@@ -27,7 +27,7 @@ Profile views" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/osama-ali-oa/" target="blank">    
+<a href="https://www.linkedin.com/in/osama-aly-oa/" target="blank">    
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="osama islam" height="30" width="30" /></a>
 </p>
 
