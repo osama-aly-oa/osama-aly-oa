@@ -16,7 +16,7 @@ Profile views" /> </p>
 
 - 🌱 I’m currently learning **Ts/Nextjs**
   
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Software engineering**
 
 - 📫 How to reach me **osama.aly.dev@gmail.com**
 
