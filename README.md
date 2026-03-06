@@ -73,9 +73,8 @@ Profile views" /> </p>
 <br/>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=osama-aly-oa&show_icons=true&locale=en&layout=compact" alt="osamamohammed-eslam" /></p>
-
-<br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osama-aly-oa&layout=compact" alt="Top Languages" />
+</p>
 
 <p align="center">
 "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them." - Andrew Hunt
