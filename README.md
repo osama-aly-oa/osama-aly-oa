@@ -20,7 +20,7 @@ Profile views" /> </p>
 
 - 🥷  I'm pro at **critical thinking**
 
-- 😁 Fun fact **I don't have a yellow rubber duck** <pre>Oops... There are no comments here 🙄😂</pre> 
+- 😁 Fun fact **I don't have a yellow rubber duck**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
